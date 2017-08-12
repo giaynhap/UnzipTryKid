@@ -1,0 +1,11 @@
+<actions>
+	<action name="TORSO_STAND" start="0" end="0" loop="true" reverse="false"/>
+	<action name="TORSO_WALK" start="1" end="25" loop="true" reverse="false"/>
+	<action name="TORSO_ATTACK" start="90" end="102" loop="false" reverse="false"/>
+	<action name="TORSO_DOUBLE_ATTACK" start="137" end="145" loop="false" reverse="false"/>
+	<action name="TORSO_SECONDARY_ATTACK" start="103" end="136" loop="false" reverse="false"/>
+	<action name="TORSO_RAISE" start="26" end="40" loop="false" reverse="false"/>
+	<action name="TORSO_DIE" start="0" end="0" loop="false" reverse="false"/>
+	<action name="TORSO_RELOAD" start="41" end="89" loop="false" reverse="false"/>
+	<action name="TORSO_PULL_CHARGER" start="0" end="0" loop="false" reverse="false"/>
+</actions>

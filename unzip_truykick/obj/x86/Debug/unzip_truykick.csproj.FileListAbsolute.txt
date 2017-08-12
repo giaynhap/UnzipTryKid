@@ -1,0 +1,9 @@
+F:\visual studio 2010\Projects\unzip_truykick\unzip_truykick\bin\Debug\unzip_truykick.exe
+F:\visual studio 2010\Projects\unzip_truykick\unzip_truykick\bin\Debug\unzip_truykick.pdb
+F:\visual studio 2010\Projects\unzip_truykick\unzip_truykick\obj\x86\Debug\unzip_truykick.exe
+F:\visual studio 2010\Projects\unzip_truykick\unzip_truykick\obj\x86\Debug\unzip_truykick.pdb
+F:\visual studio 2010\Projects\unzip_truykick\unzip_truykick\obj\x86\Debug\unzip_truykick.Properties.Resources.resources
+F:\visual studio 2010\Projects\unzip_truykick\unzip_truykick\obj\x86\Debug\unzip_truykick.csproj.GenerateResource.Cache
+F:\visual studio 2010\Projects\unzip_truykick\unzip_truykick\bin\Debug\SevenZipSharp.dll
+F:\visual studio 2010\Projects\unzip_truykick\unzip_truykick\bin\Debug\System.Xml.dll
+F:\visual studio 2010\Projects\unzip_truykick\unzip_truykick\obj\x86\Debug\unzip_truykick.csprojResolveAssemblyReference.cache
